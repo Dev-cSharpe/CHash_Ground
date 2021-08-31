@@ -1,0 +1,9 @@
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/bin/Debug/CharacterManipulation.exe.config
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/bin/Debug/CharacterManipulation.exe
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/bin/Debug/CharacterManipulation.pdb
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.csprojAssemblyReference.cache
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.csproj.CoreCompileInputs.cache
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.exe
+E:/work/C#  exercise/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.pdb
+/Users/mukeshkudi/Desktop/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.exe
+/Users/mukeshkudi/Desktop/CharacterManipulation/CharacterManipulation/obj/Debug/CharacterManipulation.pdb
